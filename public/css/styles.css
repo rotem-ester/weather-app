@@ -28,6 +28,7 @@ header {
     margin-bottom: 48px;
     text-align: center;
     min-width: 100vh;
+    padding: 16px 16px
 }
 
 header a {
